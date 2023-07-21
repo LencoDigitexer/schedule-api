@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "ip193",
+      "description": "Группа ИП-193"
+    },
+    {
+      "name": "ip194",
+      "description": "Группа ИП-194"
+    }
+  ]
+}
