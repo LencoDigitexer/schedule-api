@@ -1,0 +1,36 @@
+{
+    "schedule": {
+      "monday": [
+        {
+          "number": 1,
+          "discipline": "Математика",
+          "lecturer": "Иванов Иван Иванович",
+          "office": "101"
+        },
+        {
+          "number": 2,
+          "discipline": "Физика",
+          "lecturer": "Петров Петр Петрович",
+          "office": "202"
+        }
+      ],
+      "tuesday": [
+        {
+          "number": 1,
+          "discipline": "Информатика",
+          "lecturer": "Сидоров Алексей Петрович",
+          "office": "303"
+        },
+        {
+          "number": 2,
+          "discipline": "Английский язык",
+          "lecturer": "Johnson Mary",
+          "office": "405"
+        }
+      ],
+      "wednesday ": [],
+      "thursday": [],
+      "friday": []
+    }
+  }
+  
