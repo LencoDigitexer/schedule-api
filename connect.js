@@ -17,7 +17,7 @@ function filterAndDisplayCards(data, searchTerm) {
 // Обработчик события ввода текста в поле поиска
 searchInput.addEventListener('input', function () {
     const searchTerm = this.value.trim();
-    fetch('http://127.0.0.1:5500/university.json')
+    fetch('http://student.from.io/university.json')
         .then(response => response.json())
         .then(data => {
             filterAndDisplayCards(data, searchTerm);
@@ -83,7 +83,7 @@ function createCards(data) {
 }
 
 // Загрузка данных из API
-fetch('http://127.0.0.1:5500/university.json')
+fetch('http://student.from.io/university.json')
     .then(response => response.json())
     .then(data => {
         createCards(data);
