@@ -1,0 +1,62 @@
+{
+  "schedule": {
+    "monday": [
+      {
+        "number": 1,
+        "discipline": "Алгебра",
+        "lecturer": "Петренко Ирина Александровна",
+        "office": "14"
+      },
+      {
+        "number": 2,
+        "discipline": "Дискретная математика",
+        "lecturer": "Петренко Ирина Александровна",
+        "office": "14"
+      },
+      {
+        "number": 3,
+        "discipline": "ФИЗРА",
+        "lecturer": "Черкасова И.В.",
+        "office": "СПОРТЗАЛ"
+      }
+    ],
+    "tuesday": [
+      {
+        "number": 1,
+        "discipline": "Информатика",
+        "lecturer": "Сидоров Алексей Петрович",
+        "office": "303"
+      },
+      {
+        "number": 2,
+        "discipline": "Английский язык",
+        "lecturer": "Johnson Mary",
+        "office": "405"
+      }
+    ],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [
+      {
+        "number": 1,
+        "discipline": "Алгебра",
+        "lecturer": "Петренко Ирина Александровна",
+        "office": "14",
+        "even_numbered_week": true
+      },
+      {
+        "number": 1,
+        "discipline": "Дискретная математика",
+        "lecturer": "Петренко Ирина Александровна",
+        "office": "14",
+        "even_numbered_week": false
+      },
+      {
+        "number": 2,
+        "discipline": "Математический анализ",
+        "lecturer": "Донева О.В.",
+        "office": "9"
+      }
+    ]
+  }
+}

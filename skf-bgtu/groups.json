@@ -1,12 +1,12 @@
 {
   "groups": [
     {
-      "name": "ip193",
-      "description": "Группа ИП-193"
+      "name": "ps11",
+      "description": "Группа ПС-11"
     },
     {
-      "name": "ip194",
-      "description": "Группа ИП-194"
+      "name": "vm11",
+      "description": "Группа ВМ-11"
     }
   ]
 }
