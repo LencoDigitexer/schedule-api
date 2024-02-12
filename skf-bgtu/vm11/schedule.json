@@ -15,7 +15,7 @@
       },
       {
         "number": 3,
-        "discipline": "ФИЗРА",
+        "discipline": "Элективные дисциплины по физич. культуре",
         "lecturer": "Черкасова И.В.",
         "office": "СПОРТЗАЛ"
       }
@@ -23,18 +23,55 @@
     "tuesday": [
       {
         "number": 1,
-        "discipline": "Информатика",
-        "lecturer": "Сидоров Алексей Петрович",
-        "office": "303"
+        "discipline": "Физика",
+        "lecturer": "Дайронас М.В.",
+        "office": "17"
       },
       {
         "number": 2,
-        "discipline": "Английский язык",
-        "lecturer": "Johnson Mary",
-        "office": "405"
+        "discipline": "Физика",
+        "lecturer": "Дайронас М.В.",
+        "office": "17"
+      },
+      {
+        "number": 3,
+        "discipline": "Элективные дисциплины по физич. культуре",
+        "lecturer": "Черкасова И.В.",
+        "office": "СПОРТЗАЛ"
+      },
+      {
+        "number": 4,
+        "discipline": "Основы программирования",
+        "lecturer": "Базык Е.В.",
+        "office": "22"
       }
     ],
-    "wednesday": [],
+    "wednesday": [
+      {
+        "number": 1,
+        "discipline": "История",
+        "lecturer": "Самарина О.И,",
+        "office": "10"
+      },
+      {
+        "number": 2,
+        "discipline": "История",
+        "lecturer": "Самарина О.И,",
+        "office": "10"
+      },
+      {
+        "number": 3,
+        "discipline": "Математический анализ",
+        "lecturer": "Донева О.В.",
+        "office": "9"
+      },
+      {
+        "number": 4,
+        "discipline": "Основы алгоритмизации",
+        "lecturer": "Любимова Т.В.",
+        "office": "22"
+      }
+    ],
     "thursday": [],
     "friday": [
       {
@@ -56,6 +93,28 @@
         "discipline": "Математический анализ",
         "lecturer": "Донева О.В.",
         "office": "9"
+      }
+    ],
+    "saturday": [
+      {
+        "number": 1,
+        "discipline": "Основы алгоритмизации",
+        "lecturer": "Любимова Т.В.",
+        "office": "15",
+        "even_numbered_week": true
+      },
+      {
+        "number": 1,
+        "discipline": "Основы программирования",
+        "lecturer": "Базык Е.В.",
+        "office": "15",
+        "even_numbered_week": false
+      },
+      {
+        "number": 2,
+        "discipline": "Иностранный язык",
+        "lecturer": "Тищенко С.В.",
+        "office": "39"
       }
     ]
   }
